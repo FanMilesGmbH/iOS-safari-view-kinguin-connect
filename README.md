@@ -1,5 +1,5 @@
 # Kinguin Fanmiles Connect inside SFSafariViewController
-For describing &amp; testing issues with Kinguin connect inside a Safari ViewController
+For describing &amp; testing issues with Kinguin connect inside a Safari ViewController, as seen in the Kinguin iOS app.
 
 This app opens a `SFSafariViewController` with the same url as the *Login* button in the Kinguin app, in order to reproduce two issues with the _Fanmiles Connect_ flow. 
 Both issues seem to be that no actions triggering the opening of new tabs/windows work. These are
